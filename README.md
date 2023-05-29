@@ -6,10 +6,11 @@ I have spent two decades building teams and mentoring people on combining techno
 
 # 👀 I'm interested in ...
 
-Current themes: Metaverse, Digital Products, AR/VR/XR, emerging technologies, rapid prototyping, idea validation, idea co-creation, infrastructural tech research for creativity, and cross-disciplinary team engagement.
+Current themes: Digital Products, AR/VR/XR, emerging technologies, rapid prototyping, idea validation, idea co-creation, infrastructural tech research for creativity, and cross-disciplinary team engagement.
 
-# 🌱 I'm currently learning ...
+# 🌱 Currently working with ...
 
+- [Unity](https://unity.com)
 - [PIXI](https://github.com/pixijs)
 - [three.js](https://github.com/mrdoob/three.js)
 - Craft tooling automation (Adobe After Effects + [nexrender](https://github.com/inlife/nexrender))
