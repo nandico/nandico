@@ -11,9 +11,11 @@ Current themes: Digital Products, AR/VR/XR, emerging technologies, rapid prototy
 # 🌱 Currently working with ...
 
 - [Unity](https://unity.com)
-- [PIXI](https://github.com/pixijs)
+- [8thWall](https://8thwall.com/)
 - [three.js](https://github.com/mrdoob/three.js)
-- Craft tooling automation (Adobe After Effects + [nexrender](https://github.com/inlife/nexrender))
+- [A-Frame](https://aframe.io/)
+- [PIXI](https://github.com/pixijs)
+- [Retool](https://retool.com/)
 
 # 📫 How to reach me ...
 
