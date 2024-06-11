@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @nandico
 
-I'm a creative tech executive director multiple times awarded in Cannes Lions, London Awards, One Show Interactive, Clio, New York Festivals, and other major medals on international festivals for brands and artists like Stellantis, Nokia, WWF, Sky, and John Frusciante.
+I'm a creative tech executive director and CTO multiple times awarded in Cannes Lions, London Awards, One Show Interactive, Clio, New York Festivals, and other major medals on international festivals for brands and artists like Stellantis, Nokia, WWF, Sky, and John Frusciante.
 
 I have spent two decades building teams and mentoring people on combining technology, data, and creativity, adopting emerging technology, mixing multimedia production flows, executing software R&D, and rapid prototyping to deliver world-class creative immersive experiences.
 
